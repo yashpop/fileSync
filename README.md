@@ -1,2 +1,2 @@
 # fileSync
-for syncing files using python just like rsync in unix.
+for syncing files using python similar to rsync in unix.
